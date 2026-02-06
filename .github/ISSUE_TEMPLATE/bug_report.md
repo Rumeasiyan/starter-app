@@ -1,8 +1,8 @@
 ---
-name: "Bug report"
-about: "Report a bug or regression"
-title: "bug: <short description>"
-labels: ["bug"]
+name: 'Bug report'
+about: 'Report a bug or regression'
+title: 'bug: <short description>'
+labels: ['bug']
 assignees: []
 ---
 
@@ -10,21 +10,21 @@ assignees: []
 
 ## Summary
 
-- 
+-
 
 ## Steps to Reproduce
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Expected Behavior
 
-- 
+-
 
 ## Actual Behavior
 
-- 
+-
 
 ## Environment
 
@@ -35,8 +35,8 @@ assignees: []
 
 ## Logs / Screenshots
 
-- 
+-
 
 ## Additional Context
 
-- 
+-

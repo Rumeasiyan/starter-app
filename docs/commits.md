@@ -12,6 +12,7 @@ type(scope): subject
 ```
 
 ### Rules
+
 - `type` is required and must be one of: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`
 - `scope` is required and should be a short noun describing the area being changed (e.g. `api`, `ui`, `infra`, `deps`)
 - `subject` is required and should be short, imperative, and lower case (e.g. `add retry logic`)
@@ -21,6 +22,7 @@ type(scope): subject
 ## Examples
 
 Good:
+
 ```
 feat(auth): add refresh token rotation
 
@@ -35,6 +37,7 @@ fix(ui): prevent header overlap on small screens
 ```
 
 Bad:
+
 ```
 updated stuff
 ```
@@ -51,6 +54,7 @@ feat(api): missing blank line
 ```
 
 ## Tips
+
 - Use `git commit` (without `-m`) to open the template
 - Keep bullets focused on behavior and intent, not implementation details
 - This repo includes a hook at `githooks/commit-msg`; run `git config core.hooksPath githooks` after cloning

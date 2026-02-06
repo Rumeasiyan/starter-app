@@ -12,19 +12,19 @@ IMPORTANT: The PR title must match your branch name exactly.
 - [ ] The branch name follows the convention (e.g., `feature/<name>` or `fix/<name>`)
 - [ ] The PR title matches the branch name exactly
 - [ ] Ticket or issue is linked to this PR (if applicable)
-  - Link: 
+  - Link:
 
 ## Summary
 
-- 
+-
 
 ## Motivation and Context
 
-- 
+-
 
 ## Changes
 
-- 
+-
 
 ## How to Test
 
@@ -34,7 +34,7 @@ IMPORTANT: The PR title must match your branch name exactly.
 
 ## Screenshots / Logs (if applicable)
 
-- 
+-
 
 ## Code Quality
 
@@ -78,4 +78,4 @@ IMPORTANT: The PR title must match your branch name exactly.
 
 ## Additional Notes
 
-- 
+-

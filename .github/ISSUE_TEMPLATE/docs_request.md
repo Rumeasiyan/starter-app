@@ -1,8 +1,8 @@
 ---
-name: "Docs request"
-about: "Suggest documentation improvements or additions"
-title: "docs: <short description>"
-labels: ["documentation"]
+name: 'Docs request'
+about: 'Suggest documentation improvements or additions'
+title: 'docs: <short description>'
+labels: ['documentation']
 assignees: []
 ---
 
@@ -10,15 +10,15 @@ assignees: []
 
 ## Summary
 
-- 
+-
 
 ## Problem / Motivation
 
-- 
+-
 
 ## Proposed Update
 
-- 
+-
 
 ## Affected Areas
 
@@ -28,4 +28,4 @@ assignees: []
 
 ## Additional Context
 
-- 
+-

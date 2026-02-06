@@ -1,8 +1,8 @@
 ---
-name: "Chore"
-about: "Maintenance work, tooling, or CI updates"
-title: "chore: <short description>"
-labels: ["chore"]
+name: 'Chore'
+about: 'Maintenance work, tooling, or CI updates'
+title: 'chore: <short description>'
+labels: ['chore']
 assignees: []
 ---
 
@@ -10,20 +10,20 @@ assignees: []
 
 ## Summary
 
-- 
+-
 
 ## Motivation
 
-- 
+-
 
 ## Scope
 
-- 
+-
 
 ## Acceptance Criteria
 
-- 
+-
 
 ## Additional Context
 
-- 
+-

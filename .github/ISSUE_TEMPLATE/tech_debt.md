@@ -1,8 +1,8 @@
 ---
-name: "Tech debt"
-about: "Track refactors, cleanup, or structural improvements"
-title: "tech-debt: <short description>"
-labels: ["tech debt"]
+name: 'Tech debt'
+about: 'Track refactors, cleanup, or structural improvements'
+title: 'tech-debt: <short description>'
+labels: ['tech debt']
 assignees: []
 ---
 
@@ -10,24 +10,24 @@ assignees: []
 
 ## Summary
 
-- 
+-
 
 ## Current State / Pain
 
-- 
+-
 
 ## Proposed Refactor
 
-- 
+-
 
 ## Impact / Risk
 
-- 
+-
 
 ## Acceptance Criteria
 
-- 
+-
 
 ## Additional Context
 
-- 
+-
