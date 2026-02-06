@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+.vercel/
+.DS_Store
+*.tsbuildinfo
+bun.lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
